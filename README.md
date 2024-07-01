@@ -1,1 +1,2 @@
-"Andrew Lee" 
+Andrew Lee
+leea9@oregonstate.edu
